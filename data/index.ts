@@ -75,7 +75,7 @@ export const projects = [
     title: "RWA project",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2Frwa.png?alt=media&token=54098136-4f3b-471a-839a-199db47f8616",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/c.svg", "/fm.svg", "/solid.svg"],
     link: "https://rwa-obscure.netlify.app",
   },
   {
@@ -83,7 +83,7 @@ export const projects = [
     title: "Tea",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2FInstagram%20post%20-%201.png?alt=media&token=5b384d16-ad68-4867-93f9-1f68ffa77f56",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/fm.svg", "/node.svg", "/mongo.svg"],
     link: "https://social-media-giox.vercel.app",
   },
   {
@@ -91,7 +91,7 @@ export const projects = [
     title: "Sizzles",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2Fpage%2013.png?alt=media&token=f950b38c-9237-4f91-b479-9baed90c5d1a",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/c.svg", "/formik.svg", "/expo.svg"],
     link: "/ui.aiimg.com",
   },
   {
@@ -99,7 +99,13 @@ export const projects = [
     title: "Old Portfolio",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2Fimage_2024-06-01_175547030.png?alt=media&token=7894cd72-f25d-4089-b8b5-876e974e8589",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: [
+      "/re.svg",
+      "/tail.svg",
+      "/fm.svg",
+      "/firebase.svg",
+      "/router.svg",
+    ],
     link: "https://obs-portfolio.netlify.app",
   },
   {
@@ -107,7 +113,13 @@ export const projects = [
     title: "Shopify Clone",
     des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
     img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2Fshopify%20card.png?alt=media&token=b4488746-95ee-479f-83c2-789a47c2ac92",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    iconLists: [
+      "/re.svg",
+      "/tail.svg",
+      "/recoil.svg",
+      "/redux.svg",
+      "/router.svg",
+    ],
     link: "https://obs-shopify.netlify.app",
   },
   {
@@ -139,7 +151,7 @@ export const projects = [
     title: "Youtube Clone",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2FYoutube%20card.png?alt=media&token=37335147-9731-4e5a-a3d0-83fbf27413b8",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/redux.svg", "/router.svg"],
     link: "https://obs-youtube.netlify.app",
   },
   {
@@ -147,7 +159,7 @@ export const projects = [
     title: "TradeFinex Clone",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2FTrade%20card.png?alt=media&token=b1b95230-62f0-4533-8711-b2ddf109a469",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/redux.svg", "/router.svg"],
     link: "https://obs-tradefinex.netlify.app",
   },
   {
@@ -155,7 +167,7 @@ export const projects = [
     title: "NextJs Crud",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2Fimage_2024-06-01_175256671.png?alt=media&token=bd4062ea-d969-4569-baa8-8e6a18e28973",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/node.svg", "/mongo.svg"],
     link: "https://obs-nextjs-crud.netlify.app",
   },
 ];
