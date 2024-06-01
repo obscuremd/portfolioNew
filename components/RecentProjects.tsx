@@ -70,7 +70,6 @@ const RecentProjects = () => {
                     href={item.link}
                     target="_blank"
                     rel="noopener noreferrer"
-                    s
                     className="flex lg:text-xl md:text-xs text-sm text-purple"
                   >
                     Check Live Site
