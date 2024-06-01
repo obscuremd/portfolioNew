@@ -91,7 +91,13 @@ export const projects = [
     title: "Sizzles",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2Fpage%2013.png?alt=media&token=f950b38c-9237-4f91-b479-9baed90c5d1a",
-    iconLists: ["/re.svg", "/tail.svg", "/c.svg", "/formik.svg", "/expo.svg"],
+    iconLists: [
+      "/re.svg",
+      "/firebase.svg",
+      "/c.svg",
+      "/formik.svg",
+      "/expo2.svg",
+    ],
     link: "/ui.aiimg.com",
   },
   {
@@ -116,7 +122,7 @@ export const projects = [
     iconLists: [
       "/re.svg",
       "/tail.svg",
-      "/recoil.svg",
+      "/firebase.svg",
       "/redux.svg",
       "/router.svg",
     ],
@@ -272,7 +278,7 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    link: "https://www.instagram.com/o.b.s.c.u.r.e_/",
+    link: "https://github.com/obscuremd",
     img: "/git.svg",
   },
   {
@@ -282,7 +288,7 @@ export const socialMedia = [
   },
   {
     id: 3,
-    link: "https://www.instagram.com/o.b.s.c.u.r.e_/",
+    link: "www.linkedin.com/in/danny-tv-298a82276",
     img: "/link.svg",
   },
 ];
