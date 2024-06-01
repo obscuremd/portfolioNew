@@ -98,7 +98,7 @@ export const projects = [
       "/formik.svg",
       "/expo2.svg",
     ],
-    link: "/ui.aiimg.com",
+    link: "https://expo.dev/artifacts/eas/ppwePEyd6E9knCRRpi5Uqs.aab",
   },
   {
     id: 4,
