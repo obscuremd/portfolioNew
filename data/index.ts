@@ -84,7 +84,7 @@ export const projects = [
     des: "Tea was a passion project I had envisioned since childhood, and I was finally able to bring it to life using the skills I acquired over the years. This full-stack project attracted over 5,000 active daily users.",
     img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2FInstagram%20post%20-%201.png?alt=media&token=5b384d16-ad68-4867-93f9-1f68ffa77f56",
     iconLists: ["/next.svg", "/tail.svg", "/fm.svg", "/node.svg", "/mongo.svg"],
-    link: "https://social-media-giox.vercel.app",
+    link: "https://tea-dusky.vercel.app",
   },
   {
     id: 3,
