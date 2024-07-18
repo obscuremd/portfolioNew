@@ -100,19 +100,19 @@ export const projects = [
     ],
     link: "https://expo.dev/artifacts/eas/ppwePEyd6E9knCRRpi5Uqs.aab",
   },
-  {
+   {
     id: 4,
-    title: "Old Portfolio",
-    des: "This was an old portfolio I created during my early career. I no longer use it because, after collecting and analyzing data with Excel, I identified the reasons for the lack of proposals. I then used these insights to guide a complete redesign of my portfolio.",
-    img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2Fimage_2024-06-01_175547030.png?alt=media&token=7894cd72-f25d-4089-b8b5-876e974e8589",
+    title: "Voicify",
+    des: "This was Project for my final year of university, an app built to solve real life problems using innovative technologies",
+    img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2FVoicify.png?alt=media&token=5a12ce66-87d3-46dd-a182-049bffa9f196",
     iconLists: [
-      "/re.svg",
+      "/ts.svg",
       "/tail.svg",
       "/fm.svg",
-      "/firebase.svg",
-      "/router.svg",
+      "/node.svg", 
+      "/mongo.svg"
     ],
-    link: "https://obs-portfolio.netlify.app",
+    link: "https://voicify-three.vercel.app/",
   },
   {
     id: 5,
@@ -175,6 +175,20 @@ export const projects = [
     img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2Fimage_2024-06-01_175256671.png?alt=media&token=bd4062ea-d969-4569-baa8-8e6a18e28973",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/node.svg", "/mongo.svg"],
     link: "https://obs-nextjs-crud.netlify.app",
+  },
+    {
+    id: 12,
+    title: "Old Portfolio",
+    des: "This was an old portfolio I created during my early career. I no longer use it because, after collecting and analyzing data with Excel, I identified the reasons for the lack of proposals. I then used these insights to guide a complete redesign of my portfolio.",
+    img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2Fimage_2024-06-01_175547030.png?alt=media&token=7894cd72-f25d-4089-b8b5-876e974e8589",
+    iconLists: [
+      "/re.svg",
+      "/tail.svg",
+      "/fm.svg",
+      "/firebase.svg",
+      "/router.svg",
+    ],
+    link: "https://obs-portfolio.netlify.app",
   },
 ];
 
