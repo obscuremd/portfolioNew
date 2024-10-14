@@ -261,24 +261,25 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "FrontEnd Intern - Nupat Tech",
-    desc: "Led Hucksters' design and development, driving a 40% increase in web traffic, engagement, and sales, alongside a 72% efficiency boost with a complexity score tool.",
-    className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
-  },
-  {
-    id: 2,
-    title: "FullStack Intern - Endevops",
+    title: "Software - Endevops",
     desc: "Developed an interactive UI aligning with company goals, collaborated on an AI-powered blockchain app, and led the team to a 36% growth in release.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
+    id: 2,
+    title: "FrontEnd Intern - Nupat Tech",
+    desc: "Led Hucksters' design and development, driving a 40% increase in web traffic, engagement, and sales, alongside a 72% efficiency boost with a complexity score tool.",
+    className: "md:col-span-2",
+    thumbnail: "/exp1.svg",
+  },
+  
+  {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Managed a diverse range of freelance projects, ensuring productive collaboration and delivering tailored solutions that meet client requirements.",
+    title: "Software Engineering Intern - Prodigy Tech",
+    desc: "Managed a diverse range of projects, ensuring productive collaboration and delivering tailored solutions that meet client requirements.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
+    thumbnail: "/exp2.svg",
   },
   {
     id: 4,
