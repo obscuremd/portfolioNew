@@ -72,6 +72,24 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Euro 65",
+    des: `Euro 65 was a client project developed for Euro 65 & Corolla 1 & 2 Motors. My team and I were brought in as IT consultants to design a smart solution that enables the company to monitor both incoming and outgoing sales while providing a comprehensive overview of their transactions.
+    The demo presented is a limited version of the full application, as the data recorded by the system is sensitive and cannot be shared publicly.
+    `,
+    img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2Feuro.jpg?alt=media&token=20b1a352-21bc-4a71-8abb-09b85f7b6866",
+    iconLists: ["/re.svg", "/tail.svg", "/c.svg", "/fm.svg", "/solid.svg"],
+    link: "https://euro65.vercel.app",
+  },
+  {
+    id: 1,
+    title: "Pinoy",
+    des: `Pinoy was a freelance project commissioned by a client to streamline package deliveries across Lagos. The app was designed to provide a fast, efficient, and reliable delivery service, ensuring seamless logistics and timely deliveries throughout the city.`,
+    img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2Fpost.png?alt=media&token=8c4db960-9bef-414f-8807-826fd0c65198",
+    iconLists: ["/re.svg", "/tail.svg", "/c.svg", "/fm.svg", "/solid.svg"],
+    link: `/apps/application-c4590585-02e4-4dba-af5a-e68000e7f54f.rar`,
+  },
+  {
+    id: 1,
     title: "RWA project",
     des: "This project marked my first professional role, where I applied my years of accumulated experience to a full-stack blockchain initiative. Under my leadership, the company achieved a 35% increase in user traffic and an estimated 57% rise in profits.",
     img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2Frwa.png?alt=media&token=54098136-4f3b-471a-839a-199db47f8616",
@@ -100,18 +118,12 @@ export const projects = [
     ],
     link: "https://expo.dev/artifacts/eas/ppwePEyd6E9knCRRpi5Uqs.aab",
   },
-   {
+  {
     id: 4,
     title: "Voicify",
     des: "This was Project for my final year of university, an app built to solve real life problems using innovative technologies",
     img: "https://firebasestorage.googleapis.com/v0/b/social-media-fd6de.appspot.com/o/socialMedia%2Fportfolio%2FVoicify.png?alt=media&token=5a12ce66-87d3-46dd-a182-049bffa9f196",
-    iconLists: [
-      "/ts.svg",
-      "/tail.svg",
-      "/fm.svg",
-      "/node.svg", 
-      "/mongo.svg"
-    ],
+    iconLists: ["/ts.svg", "/tail.svg", "/fm.svg", "/node.svg", "/mongo.svg"],
     link: "https://voicify-three.vercel.app/",
   },
   {
@@ -176,7 +188,7 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/node.svg", "/mongo.svg"],
     link: "https://obs-nextjs-crud.netlify.app",
   },
-    {
+  {
     id: 12,
     title: "Old Portfolio",
     des: "This was an old portfolio I created during my early career. I no longer use it because, after collecting and analyzing data with Excel, I identified the reasons for the lack of proposals. I then used these insights to guide a complete redesign of my portfolio.",
@@ -273,7 +285,7 @@ export const workExperience = [
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
-  
+
   {
     id: 3,
     title: "Software Engineering Intern - Prodigy Tech",
